@@ -22,6 +22,7 @@ export(
   "LPDMRSortInferenceApprox",
   "LPDMRSortIdentifyIncompatibleAssignments",
   "MRSort",
+  "MRSortINTERVAL"
   "MRSortIdentifyUsedVetoProfiles",
   "MRSortInferenceExact",
   "MRSortInferenceApprox",
